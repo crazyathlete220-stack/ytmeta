@@ -1,5 +1,9 @@
 # ytmeta
 
+[![npm version](https://img.shields.io/npm/v/ytmeta.svg)](https://www.npmjs.com/package/ytmeta)
+[![node](https://img.shields.io/node/v/ytmeta.svg)](https://www.npmjs.com/package/ytmeta)
+[![license](https://img.shields.io/npm/l/ytmeta.svg)](LICENSE)
+
 A safe, **dry-run-first** command-line tool for bulk-managing YouTube video metadata —
 titles, descriptions, comments, watermarks, and uploads.
 
