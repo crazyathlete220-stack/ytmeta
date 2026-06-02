@@ -16,7 +16,8 @@
     "url": "https://github.com/crazyathlete220-stack/ytmeta/issues"
   },
   "scripts": {
-    "ytmeta": "node bin/ytmeta.js"
+    "ytmeta": "node bin/ytmeta.js",
+    "test": "node --test"
   },
   "keywords": [
     "youtube",

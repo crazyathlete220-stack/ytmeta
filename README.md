@@ -1,6 +1,7 @@
 # ytmeta
 
 [![npm version](https://img.shields.io/npm/v/ytmeta.svg)](https://www.npmjs.com/package/ytmeta)
+[![CI](https://github.com/crazyathlete220-stack/ytmeta/actions/workflows/ci.yml/badge.svg)](https://github.com/crazyathlete220-stack/ytmeta/actions/workflows/ci.yml)
 [![node](https://img.shields.io/node/v/ytmeta.svg)](https://www.npmjs.com/package/ytmeta)
 [![license](https://img.shields.io/npm/l/ytmeta.svg)](LICENSE)
 

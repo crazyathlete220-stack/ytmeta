@@ -79,3 +79,4 @@ async function descriptions(file, opts) {
 }
 
 module.exports = descriptions;
+module.exports.buildNewDescription = buildNewDescription;
