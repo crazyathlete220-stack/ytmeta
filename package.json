@@ -6,6 +6,15 @@
     "ytmeta": "bin/ytmeta.js"
   },
   "main": "src/index.js",
+  "author": "crazyathlete220-stack",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazyathlete220-stack/ytmeta.git"
+  },
+  "homepage": "https://github.com/crazyathlete220-stack/ytmeta#readme",
+  "bugs": {
+    "url": "https://github.com/crazyathlete220-stack/ytmeta/issues"
+  },
   "scripts": {
     "ytmeta": "node bin/ytmeta.js"
   },
