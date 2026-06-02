@@ -21,13 +21,19 @@ descriptions are overwritten with no undo. ytmeta is designed around that risk.
 ## Install
 
 ```bash
+npm install -g ytmeta
+```
+
+Then run `ytmeta --help` to confirm it's available. Requires Node.js 18+.
+
+### From source
+
+```bash
 git clone https://github.com/crazyathlete220-stack/ytmeta.git
 cd ytmeta
 npm install
 npm link        # optional: makes `ytmeta` available globally
 ```
-
-Requires Node.js 18+.
 
 ## Setup (one time)
 
