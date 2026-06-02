@@ -1,0 +1,14 @@
+[
+  {
+    "id": "dQw4w9WgXcQ",
+    "description": "Fully replaces the description with this exact text."
+  },
+  {
+    "id": "9bZkp7q19f0",
+    "append": "\n—\nSubscribe: https://youtube.com/@yourchannel\n#tag1 #tag2"
+  },
+  {
+    "id": "abcde12345",
+    "prepend": "📣 Watch the full playlist here: https://example.com\n"
+  }
+]

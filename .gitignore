@@ -1,0 +1,6 @@
+node_modules/
+client_secret.json
+token.json
+*.bak
+.DS_Store
+*.log

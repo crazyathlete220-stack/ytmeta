@@ -1,0 +1,37 @@
+{
+  "name": "ytmeta",
+  "version": "0.1.0",
+  "description": "A safe, dry-run-first CLI for bulk-managing YouTube video metadata: titles, descriptions, comments, watermarks, uploads.",
+  "bin": {
+    "ytmeta": "bin/ytmeta.js"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "ytmeta": "node bin/ytmeta.js"
+  },
+  "keywords": [
+    "youtube",
+    "youtube-api",
+    "cli",
+    "bulk",
+    "metadata",
+    "creator-tools",
+    "dry-run"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "googleapis": "^144.0.0",
+    "open": "^10.1.0"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "examples/",
+    "README.md",
+    "LICENSE"
+  ]
+}
